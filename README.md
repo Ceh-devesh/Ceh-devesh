@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Devesh</h1>
 <h3 align="center">A passionate frontend developer from New Delhi, India</h3>
-<img align='right' alt='coding' width='300' border-radius='20' height='250' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dveXFvMDF0ZjJuYXB6Mm9oZWt6MnJodDFmOGNjYXkyanc3N3plbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif' >
+<img align='right' alt='coding' width='250' border-radius='20' height='200' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dveXFvMDF0ZjJuYXB6Mm9oZWt6MnJodDFmOGNjYXkyanc3N3plbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif' >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceh-devesh" alt="ceh-devesh" /></a> </p>
 
