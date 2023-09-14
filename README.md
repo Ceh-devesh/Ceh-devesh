@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Js, TypeScript, NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://porfolio-blush-nine.vercel.app/](https://porfolio-blush-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://porfolio-blush-nine.vercel.app/](https://portfoios.vercel.app/)
 
 
 
